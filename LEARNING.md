@@ -28,6 +28,13 @@ Notes by a self-taught team (a hobbyist and an AI agent), written so the next pe
    (e < 0.04); with mass loss the first close encounter comes at 0.46 Myr, before the mass loss is even finished,
    and one planet is thrown to e = 0.97 with a pericentre of 0.14 AU from the white dwarf. At Delta = 5.5 both runs
    stay stable over 2 Myr: the effect needs a system that was already near the edge, which is the paper's point.
+   A six-seed ensemble at Delta = 5.0 (output/labs/planetfate/instability_ensemble_d5.0.json) adds the honest
+   caveat: three Jupiter-mass planets this close are chaotic, and 5 of 6 control runs also went unstable within
+   2.5 Myr at constant mass (Chambers et al. 1996 would have predicted it). What mass loss does is set the clock:
+   in 5 of 6 mass-loss runs the first close encounter came within 3,000-17,000 yr of the start of the mass loss,
+   and the median minimum pericentre dropped from 1.0 AU (control) to 0.26 AU (loss). Our single Delta = 4.6 pair
+   (control quiet for 2.5 Myr, loss unstable) is the illustration used in the video; the ensemble is the statistics.
+   Lesson: never show one N-body realisation as a result without an ensemble behind it.
 6. **Why this matters for white-dwarf pollution.** A planet or planetesimal on an orbit grazing the white dwarf is
    tidally shredded (Roche limit ~0.005 AU) and the rock rains onto the star; that is the accepted origin of the
    metals in a quarter of all white dwarfs. The instability after mass loss is the delivery mechanism.
