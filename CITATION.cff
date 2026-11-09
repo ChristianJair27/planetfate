@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use planetfate, please cite it together with the papers it encodes (Cummings et al. 2018; Mustill & Villaver 2012; Schröder & Connon Smith 2008; Debes & Sigurdsson 2002; Veras 2016) and REBOUND (Rein & Liu 2012)."
+title: "planetfate: which planets survive the death of their star"
+version: 0.1.0
+date-released: 2026-11-09
+license: MIT
+repository-code: https://github.com/ChristianJair27/planetfate
+authors:
+  - family-names: Jair
+    given-names: Christian
+    affiliation: Kister Space
