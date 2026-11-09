@@ -84,6 +84,10 @@ MNRAS 432, 500 · Veras 2016, Royal Society Open Science 3, 150571 · Veras, Wya
 MNRAS 417, 2104 (adiabaticity) · Rein & Liu 2012, A&A 537, A128 (REBOUND) · Rein & Spiegel 2015, MNRAS 446, 1424
 (IAS15) · NASA Exoplanet Archive, https://exoplanetarchive.ipac.caltech.edu (DOI 10.26133/NEA13 for pscomppars).
 
+## Video
+
+"Which planets survive the death of their star" (6 min, Kister Space, scheduled for 13 November 2026): https://youtu.be/sBm40pS2PLA — its data animations were made with this package (`skyimages/planetfate_anim.py` in the project).
+
 ## Status
 
 v0.1.0, 2026-11-09. Written by Christian Jair with Claude (Anthropic). Companion video: "Which planets survive the
