@@ -90,5 +90,5 @@ MNRAS 417, 2104 (adiabaticity) · Rein & Liu 2012, A&A 537, A128 (REBOUND) · Re
 
 ## Status
 
-v0.1.0, 2026-11-09. Written by Christian Jair with Claude (Anthropic). Companion video: "Which planets survive the
+v0.1.0, 2026-11-09. Written by Christian Jair (Kister Space). Companion video: "Which planets survive the
 death of their star" (Kister Space). Issues and pull requests welcome.
